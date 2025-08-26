@@ -1,0 +1,1 @@
+# YekSoalSade.sln
